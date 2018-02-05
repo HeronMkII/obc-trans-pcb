@@ -1,4 +1,4 @@
-update=2018-02-03 12:58:01 PM
+update=2018-02-03 3:55:24 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -61,7 +61,5 @@ LibName29=opto
 LibName30=atmel
 LibName31=contrib
 LibName32=valves
-LibName33=library/general_ssm
-LibName34=cdh_lib
-LibName35=SN65HVD233D
-LibName36=general_ssm
+LibName33=cdh_lib
+LibName34=general_ssm
