@@ -3,7 +3,7 @@
   (general
     (links 117)
     (no_connects 0)
-    (area 100.034999 49.754999 196.075001 140.075001)
+    (area 98.589999 48.309999 197.520002 141.520002)
     (thickness 1.6)
     (drawings 5)
     (tracks 479)
@@ -50,8 +50,6 @@
     (via_drill 0.4)
     (via_min_size 0.4)
     (via_min_drill 0.3)
-    (user_via 0.7 0.4)
-    (user_via 0.8 0.4)
     (user_via 5.4 3.2)
     (user_via 6.4 3.2)
     (uvia_size 0.3)
